@@ -24,7 +24,10 @@ html, body {
 .black{
     color: white;
 }
-
+   
+button:active {
+  background-color: red; /* Farven når du trykker */
+}
 
 
 
