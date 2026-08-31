@@ -25,6 +25,21 @@ html, body {
     color: white;
 }
    
+.bottom-container {
+  position: fixed;      
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  
+  display: flex;        
+  gap: 12px;            
+}
+
+.btn-small {
+  font-size: 13px;
+  padding: 6px 12px;
+}
+
 
 
 
